@@ -85,30 +85,7 @@ li{
 #email{
     color: var(--mainTextColor);
 }
-/*
-#socials--list {
-    display: flex;
-    justify-content: space-evenly; 
-    align-items: center; 
-    flex-wrap: wrap;
-    gap: 0.5em; 
-}
 
-#socials--list a {
-    font-weight: 300;
-    color: var(--secondaryTextColor);
-    font-size: 0.9em;
-    transition: 0.3s;
-    text-decoration: none; 
-    margin: 0.1em;
-}
-
-#socials--list a:hover {
-    font-weight: 100;
-    color: var(--mainLinkColor);
-    font-size: 0.9em;
-}
-*/
 #socials--list {
     display: flex;
     justify-content: center; /* Center the icons horizontally */
@@ -175,6 +152,14 @@ li{
     border-radius: 5px;
     padding: 0.5em 1em;
     align-items: center;
+}
+
+.legend {
+    text-align: right;
+}
+
+.legend-item {
+    margin-left: 20px;
 }
 
 .card--project{
