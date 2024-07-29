@@ -8,7 +8,7 @@
 <img width="1491" alt="image" src="https://github.com/sujith-kamme/sujith-kamme.github.io/assets/142932988/e9c61fc1-253a-4ec4-bfe6-12df85668980">
 
 
- ### [Website](https://sujith-kamme.github.io)
+ ### Check out my portfolio website by clicking [here](https://sujith-kamme.github.io)
 
 Welcome to my Data Science Portfolio Website! This template is designed to create a clean, minimal, and responsive portfolio for software developers. Feel free to leverage and tailor it to suit your individual or professional requirements.
 
